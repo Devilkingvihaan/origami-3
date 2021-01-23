@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color:  #f64c72;
+}
